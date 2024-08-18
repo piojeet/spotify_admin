@@ -11,7 +11,7 @@ import Sidebar from './components/Sidebar';
 import Navbar from './components/Navbar';
 
 // export const url = 'http://localhost:5000'
-export const url = "https://spotifybackend-1-ae9g.onrender.com"
+export const url = "https://spotifybackend-4cxq.onrender.com"
 
 const App = () => {
   return (
